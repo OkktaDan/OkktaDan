@@ -1,25 +1,28 @@
-# 🚀 Hi I'm Dan
-A student developer, who's trying to make money while doing dumb stuff
-
-### Connect with me:
-
+# Hi I'm Dan
+<!-- Website Links -->
 [![website](./img/globe-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@Octaaaa#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@Octaaaa#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://x.com/Octaa_Dan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/Octaa_Dan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/okktadan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/okktadan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://x.com/Octaa_Dan#gh-dark-mode-only)
-[![website](./img/instagram-dark.svg)](https://x.com/Octaa_Dan#gh-dark-mode-only)
+<!--icons: codeSTACKr(https://github.com/codeSTACKr)-->
+
+A Student Developer, currently studying Computer Science specialized at Machine Learning at National University Philippines.
+
+ - Currently learning about anything and everything
+ - I like to code the most fun and random stuff (Games, Simulators, Anything Fun)
+ - Suck at anything related to programming, if you're willing to teach me I'll try my best
 
 ---
-### 🛠️ Tools:
+
+### 🧰 Tools and Languages:
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -39,5 +42,5 @@ A student developer, who's trying to make money while doing dumb stuff
 <img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 <br />
 
-#
-rar
+## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=OkktaDan&theme=dark&hide_border=false)<br/>
