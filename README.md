@@ -40,7 +40,9 @@ A Student Developer, currently studying Computer Science specialized at Machine 
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Gimp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
+
 <br />
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OkktaDan&theme=dark&hide_border=false)<br/>
