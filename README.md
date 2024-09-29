@@ -38,6 +38,9 @@
 <br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#
+**ABOUT ME**
+
 A Student Developer, currently studying Computer Science specialized at Machine Learning at National University Philippines.
 
  - Currently learning about anything and everything
