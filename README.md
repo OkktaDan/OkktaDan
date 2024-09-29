@@ -33,9 +33,8 @@
 <img align="left" alt="Blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Gimp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
 
-<br />
-<br />
-
+<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 A Student Developer, currently studying Computer Science specialized at Machine Learning at National University Philippines.
 
