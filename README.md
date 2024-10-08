@@ -47,7 +47,7 @@ A Student Developer, currently studying Computer Science specialized at Machine 
  - I like to code the most fun and random stuff (Games, Simulators, Anything Fun)
  - Suck at anything related to programming, if you're willing to teach me I'll try my best
 
-**CURRENT PROJECT:  [None]()**
+**CURRENT PROJECT:  [EPortfolio]()**
 
 ---
 <div style="display: flex; align-items: center;">
