@@ -41,7 +41,7 @@
 #
 **ABOUT ME**
 
-A Student Developer, currently studying Computer Science specialized at Machine Learning at National University Philippines.
+A Developer, currently studying Computer Science specialized at Machine Learning at National University Philippines.
 
  - Currently learning about anything and everything
  - I like to code the most fun and random stuff (Games, Simulators, Anything Fun)
