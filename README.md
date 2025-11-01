@@ -1,7 +1,7 @@
 # Hi I'm Dan
 <!-- Website Links -->
-[![website](./img/globe-light.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUIcmlja3JvbGw%3D#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://octadanielle.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://octadanielle.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@Octaaaa#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@Octaaaa#gh-dark-mode-only)
@@ -46,8 +46,6 @@ A Developer, currently studying Computer Science specialized at Machine Learning
  - Currently learning about anything and everything
  - I like to code the most fun and random stuff (Games, Simulators, Anything Fun)
  - Suck at anything related to programming, if you're willing to teach me I'll try my best
-
-**CURRENT PROJECT:  [EPortfolio]()**
 
 ---
 <div style="display: flex; align-items: center;">
